@@ -20,3 +20,4 @@ for game in range (num_games):
             break # Terminates loop
 
 print("Empirical probability of having money:",1 - ran_out/num_games)
+# The output implies we'll most likely make money from the game
